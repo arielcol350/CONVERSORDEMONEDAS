@@ -17,6 +17,7 @@ Hola! Esta es mi aplicación de conversión de monedas en consola, hecha en Java
 
 - Java 8 o superior
 - Conexión a Internet (para obtener tipos de cambio de ExchangeRate-API)
+- No olvides reemplazar "YOUR KEY" con tu key personal de ExchangeRate-API.
 
 - ## Uso
 
